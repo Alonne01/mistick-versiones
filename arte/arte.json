@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "noche-estrellada",
+      "file": "01-noche-estrellada.jpg",
+      "title": "La noche estrellada",
+      "artist": "Vincent van Gogh",
+      "year": "1889",
+      "medium": "Óleo sobre tela",
+      "museum": "MoMA, Nueva York",
+      "sha256": "50aaf00ab56903fd26a9cc7499629e6a68775597db0d3e1a2e67fe80a7ef4aee",
+      "size": 3170274
+    },
+    {
+      "id": "gran-ola",
+      "file": "02-gran-ola.jpg",
+      "title": "La gran ola de Kanagawa",
+      "artist": "Katsushika Hokusai",
+      "year": "c. 1831",
+      "medium": "Grabado en madera",
+      "museum": "The Met, Nueva York",
+      "sha256": "a253db91d038be3c3f7d8bd142efcdd90d50379dfcf07c829e855ddfadb01d5d",
+      "size": 2498716
+    },
+    {
+      "id": "nacimiento-de-venus",
+      "file": "03-nacimiento-de-venus.jpg",
+      "title": "El nacimiento de Venus",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1485",
+      "medium": "Temple sobre tela",
+      "museum": "Galería Uffizi, Florencia",
+      "sha256": "dc851d58a3698ce8592c4ddd0480094b692f2bb0176c80f0910141f883ab9c6c",
+      "size": 3134814
+    },
+    {
+      "id": "gioconda",
+      "file": "04-gioconda.jpg",
+      "title": "La Gioconda",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1503",
+      "medium": "Óleo sobre tabla",
+      "museum": "Museo del Louvre, París",
+      "sha256": "53ff59ae596179e4d4217d79a66abd200fe55da3a96b306a74f6138f233487a0",
+      "size": 1569786
+    },
+    {
+      "id": "puente-japones",
+      "file": "05-puente-japones.jpg",
+      "title": "El puente japonés",
+      "artist": "Claude Monet",
+      "year": "1899",
+      "medium": "Óleo sobre tela",
+      "museum": "National Gallery of Art, Washington",
+      "sha256": "821907c8f21041d21e13e2125ed9a99e071bb5a9454df48076adf041f20034a9",
+      "size": 3213391
+    },
+    {
+      "id": "joven-de-la-perla",
+      "file": "06-joven-de-la-perla.jpg",
+      "title": "La joven de la perla",
+      "artist": "Johannes Vermeer",
+      "year": "c. 1665",
+      "medium": "Óleo sobre tela",
+      "museum": "Mauritshuis, La Haya",
+      "sha256": "c18cba97edb4ac6318b3f272b03022bbc8c9079ebdc98eb8d894c28994d15a16",
+      "size": 1511161
+    },
+    {
+      "id": "el-beso",
+      "file": "07-el-beso.jpg",
+      "title": "El beso",
+      "artist": "Gustav Klimt",
+      "year": "1908",
+      "medium": "Óleo y pan de oro sobre tela",
+      "museum": "Belvedere, Viena",
+      "sha256": "4ea93e175371be05fc2307d429d66a01d446c8edf9593a35b1d4782664257738",
+      "size": 2468221
+    },
+    {
+      "id": "impresion-sol-naciente",
+      "file": "08-impresion-sol-naciente.jpg",
+      "title": "Impresión, sol naciente",
+      "artist": "Claude Monet",
+      "year": "1872",
+      "medium": "Óleo sobre tela",
+      "museum": "Museo Marmottan Monet, París",
+      "sha256": "9c5a04b475c4fd60591edf754599b081bfc388f3016d3d4aa123323b9a9d92f6",
+      "size": 1742429
+    },
+    {
+      "id": "mujer-con-sombrilla",
+      "file": "09-mujer-con-sombrilla.jpg",
+      "title": "Mujer con sombrilla",
+      "artist": "Claude Monet",
+      "year": "1875",
+      "medium": "Óleo sobre tela",
+      "museum": "National Gallery of Art, Washington",
+      "sha256": "c8f47b5e440ce75ef2394d3a81e08d79875c67a827edbbf8f4c19a35d312336c",
+      "size": 1810147
+    },
+    {
+      "id": "almendro-en-flor",
+      "file": "10-almendro-en-flor.jpg",
+      "title": "Almendro en flor",
+      "artist": "Vincent van Gogh",
+      "year": "1890",
+      "medium": "Óleo sobre tela",
+      "museum": "Museo Van Gogh, Ámsterdam",
+      "sha256": "26a54d5d0eeff7c4cea435737b606c574890cf043b4e34f73ef344769a91b8d4",
+      "size": 2046819
+    },
+    {
+      "id": "caminante",
+      "file": "11-caminante.jpg",
+      "title": "El caminante sobre el mar de nubes",
+      "artist": "Caspar David Friedrich",
+      "year": "c. 1818",
+      "medium": "Óleo sobre tela",
+      "museum": "Kunsthalle de Hamburgo",
+      "sha256": "da17c7802ca7be7fed0344951582852bdf0f2547f5b3009db6acd0459f3be9e1",
+      "size": 1379900
+    },
+    {
+      "id": "grande-jatte",
+      "file": "12-grande-jatte.jpg",
+      "title": "Tarde de domingo en la isla de la Grande Jatte",
+      "artist": "Georges Seurat",
+      "year": "1884",
+      "medium": "Óleo sobre tela",
+      "museum": "Art Institute of Chicago",
+      "sha256": "0062476015a3f7cf5f364ec6a896b605df07d263cd88dbbcc682261744738510",
+      "size": 4326744
+    },
+    {
+      "id": "temerario",
+      "file": "13-temerario.jpg",
+      "title": "El Temerario remolcado a su último atracadero",
+      "artist": "J. M. W. Turner",
+      "year": "1839",
+      "medium": "Óleo sobre tela",
+      "museum": "National Gallery, Londres",
+      "sha256": "8c4fdf5ebab1eef044dbbe95dc8dc2b519e49566aa717539023659523a317527",
+      "size": 1508213
+    },
+    {
+      "id": "moulin-de-la-galette",
+      "file": "14-moulin-de-la-galette.jpg",
+      "title": "Baile en el Moulin de la Galette",
+      "artist": "Pierre-Auguste Renoir",
+      "year": "1876",
+      "medium": "Óleo sobre tela",
+      "museum": "Museo de Orsay, París",
+      "sha256": "59171e59e371cb24cf110dee8e38d4d4988be52d637a45b51477cbca7525c146",
+      "size": 2157203
+    },
+    {
+      "id": "sierra-nevada",
+      "file": "15-sierra-nevada.jpg",
+      "title": "En la Sierra Nevada, California",
+      "artist": "Albert Bierstadt",
+      "year": "1868",
+      "medium": "Óleo sobre tela",
+      "museum": "Smithsonian American Art Museum, Washington",
+      "sha256": "6a5d78027328d350b87db316f646c1fe3690117a88d2c5b64f8cb1953b3f7120",
+      "size": 1905594
+    },
+    {
+      "id": "liebre",
+      "file": "16-liebre.jpg",
+      "title": "Liebre joven",
+      "artist": "Alberto Durero",
+      "year": "1502",
+      "medium": "Acuarela y gouache sobre papel",
+      "museum": "Albertina, Viena",
+      "sha256": "86d5e965c4d203eb026b48fcee4c0203f65f45dd54b38d2e40968336f56b4599",
+      "size": 1362023
+    },
+    {
+      "id": "cesped",
+      "file": "17-cesped.jpg",
+      "title": "El gran trozo de césped",
+      "artist": "Alberto Durero",
+      "year": "1503",
+      "medium": "Acuarela y gouache sobre papel",
+      "museum": "Albertina, Viena",
+      "sha256": "52f3bd5690a8a52746aad18f545470ab1405de72f8ae70a54e211dd5dd93bd87",
+      "size": 1376038
+    },
+    {
+      "id": "rigi-rojo",
+      "file": "18-rigi-rojo.jpg",
+      "title": "El Rigi rojo",
+      "artist": "J. M. W. Turner",
+      "year": "1842",
+      "medium": "Acuarela sobre papel",
+      "museum": "National Gallery of Victoria, Melbourne",
+      "sha256": "e127261c6c5dd7b927850cd415cbd868d96897a3a9b26c6c7df6dda9694471aa",
+      "size": 2200602
+    },
+    {
+      "id": "orilla-nassau",
+      "file": "19-orilla-nassau.jpg",
+      "title": "Orilla y oleaje, Nassau",
+      "artist": "Winslow Homer",
+      "year": "1899",
+      "medium": "Acuarela sobre papel",
+      "museum": "The Met, Nueva York",
+      "sha256": "6036e2d3b5004c5a109b14dc4ee5015d2fe181769804ebce877088d2aea79267",
+      "size": 2285736
+    },
+    {
+      "id": "balandra-nassau",
+      "file": "20-balandra-nassau.jpg",
+      "title": "Balandra, Nassau",
+      "artist": "Winslow Homer",
+      "year": "1899",
+      "medium": "Acuarela sobre papel",
+      "museum": "The Met, Nueva York",
+      "sha256": "02e9df4d8b10ca8048de40ab2468bcb10ad55b1564292faf97a3692b1761d9be",
+      "size": 1993068
+    },
+    {
+      "id": "desayuno-abedul",
+      "file": "21-desayuno-abedul.jpg",
+      "title": "Desayuno bajo el gran abedul",
+      "artist": "Carl Larsson",
+      "year": "1896",
+      "medium": "Acuarela sobre papel",
+      "museum": "Nationalmuseum, Estocolmo",
+      "sha256": "4f6789dbc3c298283ebaea57656389de1cfa228bac52aead6d85f1bb2cf83bde",
+      "size": 2616501
+    }
+  ]
+}
